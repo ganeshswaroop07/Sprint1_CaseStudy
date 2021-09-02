@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\roopa\\.nuget\\packages\\": {}
+    "C:\\Users\\ganes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
+      "projectUniqueName": "D:\\capgemini joining training\\case study 1\\CASE STUDY GIT\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
       "projectName": "MedicalDonationSystem_CAL",
-      "projectPath": "D:\\c#\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
-      "packagesPath": "C:\\Users\\roopa\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\MedicalDonationSystem_CAL\\obj\\",
+      "projectPath": "D:\\capgemini joining training\\case study 1\\CASE STUDY GIT\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
+      "packagesPath": "C:\\Users\\ganes\\.nuget\\packages\\",
+      "outputPath": "D:\\capgemini joining training\\case study 1\\CASE STUDY GIT\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_CAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\roopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ganes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
