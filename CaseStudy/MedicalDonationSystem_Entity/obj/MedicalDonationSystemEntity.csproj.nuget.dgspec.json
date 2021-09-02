@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj": {}
+    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_Entity\\MedicalDonationSystemEntity.csproj": {}
   },
   "projects": {
-    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj": {
+    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_Entity\\MedicalDonationSystemEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
-        "projectName": "MedicalDonationSystem_CAL",
-        "projectPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_CAL\\MedicalDonationSystem_CAL.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_Entity\\MedicalDonationSystemEntity.csproj",
+        "projectName": "MedicalDonationSystemEntity",
+        "projectPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_Entity\\MedicalDonationSystemEntity.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_CAL\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",

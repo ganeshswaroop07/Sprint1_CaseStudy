@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0UXjsbEDoDinYM6ZGnkOSCYR5WbLk5vC6Y2asfP5jk8mRCo32qMv7PR5/kHam/cztTGfrtEHxZZKxYmFX1pWQQ==",
+  "dgSpecHash": "pC4zlyFhAQSK/QdJ1nkMmEHy4XjC/R3fLx7iruUkqCFzTNz6fBlnItRZUr4YPl919BoT5zZWJnVDpRioYhlnvQ==",
   "success": true,
-  "projectFilePath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
+  "projectFilePath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_DAL\\MedicalDonationSystemDAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

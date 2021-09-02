@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hemanth Krishna T M\\.nuget\\packages\\": {}
+    "C:\\Users\\a\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
-      "projectName": "MedicalDonationSystem_DAL",
-      "projectPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
-      "packagesPath": "C:\\Users\\Hemanth Krishna T M\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\obj\\",
+      "projectUniqueName": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_DAL\\MedicalDonationSystemDAL.csproj",
+      "projectName": "MedicalDonationSystemDAL",
+      "projectPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_DAL\\MedicalDonationSystemDAL.csproj",
+      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+      "outputPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hemanth Krishna T M\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
