@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj": {}
+    "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj": {}
   },
   "projects": {
-    "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj": {
+    "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj",
+        "projectUniqueName": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj",
         "projectName": "MedicalDonationSystem_BAL",
-        "projectPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj",
-        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "D:\\Capgemini Training\\MedicalDonationSystem-Sprint-1\\MedicalDonationSystem_BAL\\obj\\",
+        "projectPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_BAL\\MedicalDonationSystem_BAL.csproj",
+        "packagesPath": "C:\\Users\\Hemanth Krishna T M\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hemanth Krishna T M\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
