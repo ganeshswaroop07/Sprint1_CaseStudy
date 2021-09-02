@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LDtAwwN/AFRE6+SA+ikTxZFg4kibyeUA2mL/T4j3wkrzZVYfDSpeLTsiqk0JPa0qPsFYCFlQDq8NUcTg7/FIMg==",
+  "dgSpecHash": "0UXjsbEDoDinYM6ZGnkOSCYR5WbLk5vC6Y2asfP5jk8mRCo32qMv7PR5/kHam/cztTGfrtEHxZZKxYmFX1pWQQ==",
   "success": true,
-  "projectFilePath": "D:\\c#\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
+  "projectFilePath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj": {}
+    "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj": {}
   },
   "projects": {
-    "D:\\c#\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj": {
+    "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
+        "projectUniqueName": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
         "projectName": "MedicalDonationSystem_DAL",
-        "projectPath": "D:\\c#\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
-        "packagesPath": "C:\\Users\\roopa\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\MedicalDonationSystem_DAL\\obj\\",
+        "projectPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\MedicalDonationSystem_DAL.csproj",
+        "packagesPath": "C:\\Users\\Hemanth Krishna T M\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CaseStudy\\Sprint1_CaseStudy\\CaseStudy\\MedicalDonationSystem_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hemanth Krishna T M\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
